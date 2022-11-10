@@ -1,0 +1,10 @@
+self assignment
+
+
+x1 xn 
+bounded random variables
+
+t test assumes normal
+hoeffding doesn't assume about distribution shape
+
+hoeffding to t test
